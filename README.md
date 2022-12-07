@@ -21,10 +21,6 @@ A book finder and reader application which implements the Google Books API to re
 - **Version Control**: Git
 - **Hosting**: Netlify, Github Pages
 
-## Screenshot
-
-
-
 ## Setup and Installation
 Fork and Clone this project. Make sure you have git installed. On the terminal, navigate to your workspace directory and run it
 ​
