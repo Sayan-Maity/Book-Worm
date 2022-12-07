@@ -17,11 +17,9 @@ A book finder and reader application which implements the Google Books API to re
 ## Tech Stack
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/bootstrap%20-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Google Books API
+- **Frontend**: HTML, CSS, Javascript, Bootstrap, Google Books API
+- **Version Control**: Git
+- **Hosting**: Netlify, Github Pages
 
 ## Screenshot
 
