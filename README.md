@@ -32,6 +32,8 @@ Pull requests are encouraged
 ​
 ## Future Scope
 - UI part can be improved by adding some animations
+- Authentication can be added 
+- favourite books can be saved in local storage or in the database
 ​
 ## License
 This project is licensed under the MIT license.
