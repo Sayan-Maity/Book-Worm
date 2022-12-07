@@ -1,5 +1,5 @@
 
-## Book Worm
+# Book Worm
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/215485c8-6481-4c63-97cb-a3d16d801ffe/deploy-status)](https://app.netlify.com/sites/sayancr777-book-worm/deploys)
@@ -30,7 +30,7 @@ A book finder application which implements the Google Books API to retrieve info
 
 Below are the steps to follow to contribute to this project:
 
-**1.** Fork [this](https://github.com/wasimreja/book-finder) repository.
+**1.** Fork [this](https://github.com/Sayan-Maity/Book-Worm) repository.
 
 **2.** Clone your forked copy of the project.
 
