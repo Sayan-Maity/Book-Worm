@@ -6,7 +6,7 @@
 
 ## About The Project
 
-A book finder application which implements the Google Books API to retrieve information about a book that the user searches for.
+A book finder and reader application which implements the Google Books API to retrieve information about a book that the user searches for.
 
 ## Features
 
@@ -15,6 +15,7 @@ A book finder application which implements the Google Books API to retrieve info
 - Generate picture of book along with external link to see a preview of the book on Google Books.
 
 ## Tech Stack
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/bootstrap%20-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=%23F7DF1E"/>
 
 - [HTML](https://html.spec.whatwg.org/multipage/)
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
