@@ -6,6 +6,9 @@
 
 A book finder and reader application which implements the Google Books API to retrieve information about a book that the user searches for.
 
+
+Author : [Sayan Maity](sayancr777@gmail.com)
+
 ![preview](https://github.com/Sayan-Maity/Book-Worm/blob/main/assets/preview.jpg)
 
 ## Features
