@@ -4,11 +4,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/215485c8-6481-4c63-97cb-a3d16d801ffe/deploy-status)](https://app.netlify.com/sites/sayancr777-book-worm/deploys)
 
-![preview](https://github.com/Sayan-Maity/Book-Worm/blob/main/assets/preview.jpg)
-
-## About The Project
-
 A book finder and reader application which implements the Google Books API to retrieve information about a book that the user searches for.
+
+![preview](https://github.com/Sayan-Maity/Book-Worm/blob/main/assets/preview.jpg)
 
 ## Features
 
